@@ -1,0 +1,1 @@
+'h''e''l''l''l'Key.backspace'o'Key.space'i'Key.space'a''m'Key.space'v''i''g''m'Key.backspace'n''e''s''h'Key.enterKey.cmdKey.print_screenKey.cmdKey.print_screenKey.print_screenKey.cmdKey.cmdKey.print_screen'\x03'Key.ctrl_lKey.backspace'v''i''f'Key.backspace'g''n''e''s''h'Key.space'm'Key.enter'\x16'Key.ctrl_l
